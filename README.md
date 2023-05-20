@@ -32,6 +32,7 @@ Report on the Neural Network Model for Alphabet Soup
   The final model achieved an accuracy of 73% on the test data.
 
 3.	Summary:
+
   The deep learning model achieved a decent accuracy rate of 73% in predicting the success of organizations funded by Alphabet Soup. While it did not meet the target performance above 75%, several attempts were made to optimize   the model, including adjusting the architecture, activation functions, and preprocessing techniques.
 
   To further improve the model's performance:
