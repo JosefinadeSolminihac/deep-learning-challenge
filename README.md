@@ -2,6 +2,7 @@
 Report on the Neural Network Model for Alphabet Soup
 
 1.	Overview of the Analysis:
+
   The purpose of this analysis is to develop a deep learning model using a neural network to predict the success of organizations funded by Alphabet Soup. The model utilizes various features in the dataset to classify whether     an organization will succeed when funded by Alphabet Soup. The goal is to create an accurate binary classifier that can assist in the selection process for funding applicants.
 
 2.	Results:
