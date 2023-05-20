@@ -1,11 +1,11 @@
 # deep-learning-challenge
-**Report on the Neural Network Model for Alphabet Soup
+**Report on the Neural Network Model for Alphabet Soup**
 
-**1.	Overview of the Analysis:
+**1.	Overview of the Analysis:**
 
   The purpose of this analysis is to develop a deep learning model using a neural network to predict the success of organizations funded by Alphabet Soup. The model utilizes various features in the dataset to classify whether     an organization will succeed when funded by Alphabet Soup. The goal is to create an accurate binary classifier that can assist in the selection process for funding applicants.
 
-**2.	Results:
+**2.	Results:**
 
 •	Data Preprocessing:
 
@@ -31,7 +31,7 @@
   Regularization techniques, such as L1 or L2 regularization, were not explicitly applied in this analysis.
   The final model achieved an accuracy of 73% on the test data.
 
-**3.	Summary:
+**3.	Summary:**
 
   The deep learning model achieved a decent accuracy rate of 73% in predicting the success of organizations funded by Alphabet Soup. While it did not meet the target performance above 75%, several attempts were made to optimize   the model, including adjusting the architecture, activation functions, and preprocessing techniques.
 
